@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Alba github activity graph](https://activity-graph.herokuapp.com/graph?username=AlbaAr23)](https://github.com/AlbaAr23/github-readme-activity-graph)
+[![Alba github activity graph](https://activity-graph.herokuapp.com/graph?username=AlbaAr23&theme=tokyo-night)](https://github.com/AlbaAr23/github-readme-activity-graph)
 <!--
 **AlbaAr23/AlbaAr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
